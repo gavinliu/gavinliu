@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi there 
 
-<!--
-**gavinliu/gavinliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer [@JoJoReading](https://www.jojoreading.com/) working on AppTeam.
 
-Here are some ideas to get you started:
+### 👨🏻‍💻  I’m currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JoJoReading Apps](https://www.jojoreading.com/): Three to twelve-year-old full-discipline enlightenment course services
+- [Quickis](https://github.com/Quickits): A collection of quick dev kits for Android
+- [Snapmod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod&hl=en)(Google Play): Better Screenshots mockup generator
+
+
+### 📫 How to reach me
+
+- Email: gavin6liu@gmail.com
