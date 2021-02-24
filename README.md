@@ -12,3 +12,7 @@ I'm a software engineer [@JoJoReading](https://www.jojoreading.com/) working on 
 ### 📫 How to reach me
 
 - Email: gavin6liu@gmail.com
+
+---
+
+![Liu YunLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinliu)
