@@ -15,4 +15,4 @@ I'm a software engineer [@JoJoReading](https://www.jojoreading.com/) working on 
 
 ---
 
-![Liu YunLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinliu)
+![Liu YunLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinliu&hide_title=true&show_icons=true)
