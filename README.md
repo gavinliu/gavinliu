@@ -1,7 +1,5 @@
 ### 👋 Hi there 
 
-![](https://komarev.com/ghpvc/?username=gavinliu&color=blue)
-
 I'm a software engineer [@JoJoReading](https://www.jojoreading.com/) working on AppTeam.
 
 ### 👨🏻‍💻 I’m currently working on 
